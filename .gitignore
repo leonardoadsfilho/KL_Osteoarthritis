@@ -1,0 +1,11 @@
+./ClsKLData/kneeKL224/*
+./ClsKLData/kneeKL224/data_set/
+./ClsKLData/kneeKL224/data_set/*
+./ClsKLData/kneeKL224/data_set_val/
+./ClsKLData/kneeKL224/data_set_val/*
+./ClsKLData/kneeKL224/train/
+./ClsKLData/kneeKL224/train/*
+./ClsKLData/kneeKL224/val/
+./ClsKLData/kneeKL224/val/*
+./ClsKLData/kneeKL224/model/
+./ClsKLData/kneeKL224/model/*
